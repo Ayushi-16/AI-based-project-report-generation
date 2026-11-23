@@ -1,0 +1,7 @@
+
+Task,Owner,Status,Progress,Due_Date,Dependency,Update
+API Integration,John,Delayed,40,2026-11-24,None,Waiting for API access from external team
+UI Development,Sarah,Completed,100,2026-11-20,None,Dashboard development completed successfully
+Testing,Alex,In Progress,60,2026-11-27,API Integration,Testing is partially complete and waiting for API integration
+Documentation,Emma,Pending,0,2026-11-28,UI Development,Documentation is awaiting technical review
+Stakeholder Review,Michael,Delayed,50,2026-11-29,Testing,Review preparation is underway
