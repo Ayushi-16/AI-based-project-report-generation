@@ -1,4 +1,3 @@
-
 Task,Owner,Status,Progress,Due_Date,Dependency,Update
 API Integration,John,Delayed,40,2026-11-24,None,Waiting for API access from external team
 UI Development,Sarah,Completed,100,2026-11-20,None,Dashboard development completed successfully
